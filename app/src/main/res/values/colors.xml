@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sand">#FFFFE2A9</color>
+    <color name="darksand">#FFFFD176</color>
+    <color name="sandy">#55FFE2A9</color>
+    <color name="sandydarker">#60FFE4B0</color>
+    <color name="sandblue">#FFA9C6FF</color>
+
+</resources>
